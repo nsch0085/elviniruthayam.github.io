@@ -1,19 +1,25 @@
-# git-wiki-skeleton
+# Dokumentationsside
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+[KORT OM SEKTIONEN, OPGAVER, LEVERANCER, POSTKASSEHENVENDELSER, KOMPETENCER, NETVÆRK, PERSONER/ROLLER MM.]
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
+## 1.1 SOFTWARE OG OPSÆTNING
+Følgende software er en forudsætning og kan findes i Softwareshoppen. Versioner pr. 2022-09-08.
 
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
+* Microsoft SQL Server Management Studio v16.3
+* Power BI septmber 2021
+* SQL Server Data Tools 15.9.3 Bundle
+  * Dax Studio v2.14.0
+  * Tabular Editor v2.13
 
-## The git-wiki project
+Hvor specifikke emner med fordel kan gennemgås ifm. løsning af opgaver er relevant for forståelse i en given kontekst kan anbefales, vil link være indsat.
 
-The git-wiki project is composed by 3 different repository:
+![look at this graph](https://i.imgur.com/6yP0S45.png)
 
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
+| Server        | Second Header | Beskrivelse |
+| ------------- | ------------- |-------------|
+| Content Cell  | Content Cell  |             |
+| Content Cell  | Content Cell  |             |
 
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it. 
 
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
-
-Version: 1.0.8
+> ### **Øvelse 1**
+> Hospital XXX ønsker optælling af alle lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
