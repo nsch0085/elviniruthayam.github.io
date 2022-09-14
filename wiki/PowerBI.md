@@ -1,4 +1,4 @@
-# PowerBI modellering
+# 1 PowerBI modellering
 ## 1.1 Introduktion til Kuben
 Kort beskrivelse 
 
