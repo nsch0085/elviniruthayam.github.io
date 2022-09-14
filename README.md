@@ -2,7 +2,7 @@
 
 [KORT OM SEKTIONEN, OPGAVER, LEVERANCER, POSTKASSEHENVENDELSER, KOMPETENCER, NETVÆRK, PERSONER/ROLLER MM.]
 
-## 1.1 SOFTWARE OG OPSÆTNING
+## 0.1 SOFTWARE OG OPSÆTNING
 Følgende software er en forudsætning og kan findes i Softwareshoppen. Versioner pr. 2022-09-08.
 
 * Microsoft SQL Server Management Studio v16.3
@@ -21,5 +21,5 @@ Hvor specifikke emner med fordel kan gennemgås ifm. løsning af opgaver er rele
 | Content Cell  | Content Cell  |             |
 
 
-> ### **Øvelse 1**
+> ### **Øvelse 0.1**
 > Hospital XXX ønsker optælling af alle lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
