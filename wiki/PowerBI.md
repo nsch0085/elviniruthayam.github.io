@@ -1,4 +1,4 @@
-## 2.1 Introduktion til Kuben
+## 1.1 Introduktion til Kuben
 Kort beskrivelse 
 
 Lederdashboard:... 
@@ -18,7 +18,7 @@ Du vil i det følgende blive præsenteret for overvejelser ifm. databearbejdning
 
 
 
-## 2.2 PERSONALESAMMENSÆTNING
+## 1.2 PERSONALESAMMENSÆTNING
 ![Datamodel](https://archit.dk/img/datamodel_logisk.png)
 
 Relevant HR-baggrund
@@ -31,5 +31,5 @@ Relationer
 
 Measures
 
-> ### Øvelse 2
+> ### Øvelse 1
 > Genskab en eller flere figurer fra fanen ’Personalesammensætning’ som de ses i lederdashboardet?
