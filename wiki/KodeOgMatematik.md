@@ -1,5 +1,7 @@
 # 3 Kode og Matematik
 ## 3.1 TEST KODE
+
+Tekst før kodeblok.
 ```
 import java.util.*;
 public class LowestCommonMultiple {
@@ -41,6 +43,7 @@ public class LowestCommonMultiple {
 }
 
 ```
+Tekst efter kodeblok 
 
 ## 3.2 Matematik
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
