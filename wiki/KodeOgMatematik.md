@@ -1,8 +1,8 @@
 # 3 Kode og Matematik
 ## 3.1 PSEUDO KODE
+
 ´´´
 import java.util.*;
-  
 public class LowestCommonMultiple {
   
     private static long
