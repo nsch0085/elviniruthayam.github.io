@@ -1,5 +1,5 @@
 # 3 Kode og Matematik
-## 3.1 PSEUDO KODE
+## 3.1 TEST KODE
 ```
 import java.util.*;
 public class LowestCommonMultiple {
