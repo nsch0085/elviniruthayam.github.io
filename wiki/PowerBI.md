@@ -1,5 +1,5 @@
-# 1 PowerBI modellering
-## 1.1 Introduktion til Kuben
+# PowerBI modellering
+## Introduktion til Kuben
 Kort beskrivelse 
 
 Lederdashboard:... 
@@ -19,7 +19,7 @@ Du vil i det følgende blive præsenteret for overvejelser ifm. databearbejdning
 
 
 
-## 1.2 PERSONALESAMMENSÆTNING
+## PERSONALESAMMENSÆTNING
 ![Datamodel](https://archit.dk/img/datamodel_logisk.png)
 
 Relevant HR-baggrund
