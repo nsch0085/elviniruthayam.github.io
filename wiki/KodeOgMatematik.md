@@ -1,5 +1,5 @@
-# 3 Kode og Matematik
-## 3.1 TEST KODE
+# Kode og Matematik
+## TEST KODE
 
 Tekst før kodeblok.
 ```
@@ -45,7 +45,7 @@ public class LowestCommonMultiple {
 ```
 Tekst efter kodeblok.
 
-## 3.2 Matematik
+## Matematik
 This sentence uses `$$` delimiters to show math inline:  $$\sqrt{3x-1}+(1+x)^2$$
 
 **The Cauchy-Schwarz Inequality**
