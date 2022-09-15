@@ -1,8 +1,8 @@
-# 0 Dokumentationsside
+# Dokumentationsside
 
 [KORT OM SEKTIONEN, OPGAVER, LEVERANCER, POSTKASSEHENVENDELSER, KOMPETENCER, NETVÆRK, PERSONER/ROLLER MM.]
 
-## 0.1 SOFTWARE OG OPSÆTNING
+## SOFTWARE OG OPSÆTNING
 Følgende software er en forudsætning og kan findes i Softwareshoppen. Versioner pr. 2022-09-08.
 
 * Microsoft SQL Server Management Studio v16.3
@@ -21,6 +21,6 @@ Hvor specifikke emner med fordel kan gennemgås ifm. løsning af opgaver er rele
 | Content Cell  | Content Cell  |             |
 
 
-> ### **Øvelse 0.1**
+> ### **Øvelse 1**
 > Hospital XXX ønsker optælling af alle lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
 >*[Link til løsning](https://www.youtube.com/watch?v=dQw4w9WgXcQ)*
