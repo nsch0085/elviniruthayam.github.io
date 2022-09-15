@@ -43,7 +43,7 @@ public class LowestCommonMultiple {
 }
 
 ```
-Tekst efter kodeblok 
+Tekst efter kodeblok.
 
 ## 3.2 Matematik
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
