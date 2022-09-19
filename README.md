@@ -3,7 +3,7 @@
 Sektionen har hovedsageligt tekniske medarbejdere med kompetencer i dataudtræk og datafremstilling (7) og økonomi medarbejdere (2), samt ledelsesmedarbejdere (2) til at understøtte disse.
 
 ## Formål
-Denne wiki er tiltænkt som introduktionmateriale til nye medarbejdere og som et opslagværk til erfarne medarbejdere.
+Denne wiki er tiltænkt som introduktionsmateriale til nye medarbejdere og som et opslagværk til erfarne medarbejdere.
 
 ## SOFTWARE OG OPSÆTNING
 Følgende software er en forudsætning og kan findes i Softwareshoppen. Versioner pr. 2022-09-08.
