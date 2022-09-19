@@ -23,4 +23,4 @@ Hvor specifikke emner med fordel kan gennemgås ifm. løsning af opgaver er rele
 
 > ### **Øvelse 1**
 > Hospital XXX ønsker optælling af alle lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
->*[Link til løsning](https://www.youtube.com/watch?v=dQw4w9WgXcQ)*
+>*[Link til løsning](https://github.com/MedTekHuset/CHRU-DATA)*
